@@ -12,3 +12,22 @@ body{
     padding: #ecf0f1;
     text-align: #ecf0f1;
 }
+#menu ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#menu ul li{
+    display: inline-block;
+    margin : 0 30px;
+
+}
+#menu ul li a :hover{
+    color: #ecf0f1;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+
+
+
